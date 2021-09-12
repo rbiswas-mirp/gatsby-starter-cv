@@ -3,8 +3,8 @@ module.exports = {
   siteDescription: `Programmer, Web Developer, Cloud Architect`,
   keyWords: ['Sanjana Kokkonda', 'K Sanjana', 'Sanjana K'],
   authorName: 'Sanjana Kokkonda',
-  twitterUsername: '',
-  githubUsername: '',
+  // twitterUsername: '',
+  // githubUsername: '',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Engineering Student, passionate about what I do. Always interested in how computers worked and how the sites were made. I started to study C++ and HTML by hobby. <br />
     In 2020, I started learning C++ and HTML. <<br />
@@ -62,21 +62,21 @@ module.exports = {
     {
       image: "/images/gatsby-starter-cv.jpeg",
       description: "Project 1",
-      url: "#"
+      url: "/images/gatsby-starter-cv.jpeg"
     },
     {
       image: "/images/awesome-grid.jpeg",
       description: "Project 2",
-      url: "#"
+      url: "/images/gatsby-starter-cv.jpeg"
     },
     /* more portifolio items here */
   ],
-  social: {
-    twitter: "#",
-    linkedin: "#",
-    github: "#",
-    email: "#"
-  },
+  // social: {
+  //   twitter: "#",
+  //   linkedin: "#",
+  //   github: "#",
+  //   email: "#"
+  // },
   siteUrl: 'https://www.sanjanakokkonda.in',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
