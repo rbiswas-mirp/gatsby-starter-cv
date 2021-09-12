@@ -7,7 +7,7 @@ module.exports = {
   githubUsername: 'santosfrancisco',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Engineering Student, passionate about what I do. Always interested in how computers worked and how the sites were made. I started to study C++ and HTML by hobby. <br />
-    In 2020, I started learning C++ and HTML.
+    In 2020, I started learning C++ and HTML. <<br />
     In 2021, I started learning C and Python. <br />
     I am currently an engineering student at NIT Warangal.`,
   skills: [
@@ -43,7 +43,7 @@ module.exports = {
         month: 'apr',
         year: '2019'
       },
-      duration: null,
+      // duration: null,
       occupation: "+2",
       description: "+2 in Junior College"
   
@@ -53,29 +53,29 @@ module.exports = {
         month: 'apr',
         year: '2017'
       },
-      duration: '1 yr e 5 mos',
+      // duration: 'null',
       occupation: "High School",
       description: "High School."
     },
   ],
   portifolio: [
     {
-      image: "/images/gatsby-starter-cv.png",
-      description: "Gatsby starter CV template",
+      image: "/images/gatsby-starter-cv.jpeg",
+      description: "Project 1",
       url: "#"
     },
     {
-      image: "/images/awesome-grid.png",
-      description: "Responsive grid for ReactJS",
+      image: "/images/awesome-grid.jpeg",
+      description: "Project 2",
       url: "#"
     },
     /* more portifolio items here */
   ],
   social: {
-    twitter: "https://twitter.com/_franciscodf",
-    linkedin: "https://www.linkedin.com/in/santos-francisco",
-    github: "https://github.com/santosfrancisco",
-    email: "yoshi.df@gmail.com"
+    twitter: "#",
+    linkedin: "#",
+    github: "#",
+    email: "#"
   },
   siteUrl: 'https://www.sanjanakokkonda.in',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
