@@ -3,7 +3,7 @@ module.exports = {
   siteDescription: `Programmer, Web Developer, Cloud Architect`,
   keyWords: ['Sanjana Kokkonda', 'K Sanjana', 'Sanjana K'],
   authorName: 'Sanjana Kokkonda',
-  // twitterUsername: '',
+  twitterUsername: '',
   githubUsername: '',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `Engineering Student, passionate about what I do. Always interested in how computers worked and how the sites were made. I started to study C++ and HTML by hobby. <br />
